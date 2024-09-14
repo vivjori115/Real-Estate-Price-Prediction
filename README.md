@@ -24,22 +24,6 @@ Latitude
 Longitude
 The user inputs these values, and the app provides a predicted price based on the trained model.
 
-⚙️ Usage
-1. Clone the Repository
-bash
-Copy code
-git clone <repository_url>
-2. Install the Required Dependencies
-bash
-Copy code
-pip install streamlit numpy pandas scikit-learn
-3. Run the Streamlit App
-bash
-Copy code
-streamlit run app.py
-4. Access the App
-Once the app is running, a URL will be provided in the terminal. Open your web browser and navigate to the given URL to interact with the app.
-
 📝 Input Parameters
 The app takes the following inputs from the user:
 
